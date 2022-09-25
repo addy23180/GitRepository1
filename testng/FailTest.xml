@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="SuiteFailTest">
+  <test thread-count="5" name="TestFailTest">
+    <classes>
+      <class name="programBySir.TestSuite2BySir"/>
+      <class name="programBySir.TestSuite1BySir"/>
+      <class name="programBySir.TestNGRegularExpressionBySir"/>
+    </classes>
+  </test> <!-- TestFailTest -->
+</suite> <!-- SuiteFailTest -->

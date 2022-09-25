@@ -1,0 +1,27 @@
+
+   //ChromeDriver:
+   String key1 = "webdriver.chrome.driver";
+   String value1 = "D:\Velocitytraining\Setups\Chrome\chromedriver_win32 (1)\chromedriver.exe";
+   //FirefoxDriver:
+   String key2 = "webdriver.gecko.driver";
+   String value2 = "D:\\Velocitytraining\\Setups\\FireFox\\geckodriver-v0.31.0-win64\\geckodriver.exe";
+   //URLS:
+   String url1="https://www.flipkart.com/";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

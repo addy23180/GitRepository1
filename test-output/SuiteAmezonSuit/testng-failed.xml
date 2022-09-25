@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [SuiteAmezonSuit]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="TestAmezonSuit(failed)">
+    <classes>
+      <class name="amezonPOMClassesExecution.AmezonExecution">
+        <methods>
+          <include name="Atest"/>
+          <include name="Test"/>
+          <include name="Bsuite"/>
+          <include name="Btest"/>
+          <include name="Asuite"/>
+          <include name="Bmethod"/>
+          <include name="Bclass"/>
+          <include name="Aclass"/>
+          <include name="Amethod"/>
+        </methods>
+      </class> <!-- amezonPOMClassesExecution.AmezonExecution -->
+    </classes>
+  </test> <!-- TestAmezonSuit(failed) -->
+</suite> <!-- Failed suite [SuiteAmezonSuit] -->

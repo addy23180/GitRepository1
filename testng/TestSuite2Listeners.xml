@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="SuiteTestSuite2Listeners">
+  <test thread-count="5" name="TestTestSuite2Listeners">
+    <classes>
+      <class name="programBySir.TestSuite2Listener"/>
+    </classes>
+  </test> <!-- TestTestSuite2Listeners -->
+</suite> <!-- SuiteTestSuite2Listeners -->
