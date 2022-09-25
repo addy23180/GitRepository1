@@ -7,6 +7,7 @@ public class AllConditionalStmntTogether {
 	int marks = 30;
 	int rainbow=3;
 	public void conditional() {
+		System.out.println("Checking statement for git");
 		//1.If statement
 		if(a<b) {
 			System.out.println("1.Provided If condition is true");
